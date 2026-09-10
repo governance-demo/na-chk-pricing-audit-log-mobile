@@ -1,2 +1,6 @@
 # na-chk-pricing-audit-log-mobile
-checkout / critical / na
+
+Team: **checkout**  
+Tier: **critical**  
+Region: **na**  
+Synthetic demo repo for the Domo governance platform.
